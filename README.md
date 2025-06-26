@@ -1,12 +1,39 @@
-# React + Vite
+# 👤 GitHub Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet powerful tool to search GitHub users and view their profiles, repos, followers, and more using the GitHub API.
 
-Currently, two official plugins are available:
+### 🔗 Live Demo
+👉 [View Live Site](https://askweb11.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Search users by GitHub username
+- View profile info, repos, followers, etc.
+- Clickable profile links and repo previews
+- Dark/light theme (optional)
+- Fully responsive layout
+
+---
+
+## 🧰 Tech Stack
+
+- React
+- Tailwind CSS
+- GitHub REST API
+- Vite
+
+---
+
+## 📸 Screenshot
+
+![GitHub Finder Screenshot](./public/screenshot.PNG)
+
+---
+
+## 📦 Getting Started
+
+1. Clone the repo:
+```bash
+git clone https://github.com/abdulsalamkhan441/GitHub-Finder.git
